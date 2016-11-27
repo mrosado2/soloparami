@@ -126,10 +126,7 @@
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Aaaa-capstone</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
-										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
-										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
-										leave cardboard box.</p>
+									<p class="text-justify">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -140,10 +137,7 @@
 								img-circle img-thumbnail">
 								<div>
 									<h3>Title 2</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
-										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
-										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
-										leave cardboard box.</p>
+									<p class="text-justify">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -154,10 +148,7 @@
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 3</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
-										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
-										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
-										leave cardboard box.</p>
+									<p class="text-justify">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -167,7 +158,7 @@
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 4</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
+									<p class="text-justify">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -191,7 +182,7 @@
 							<span class="fa fa-github fa-2x"></span>
 						</a>
 						<!--LINKEDIN ICON-->
-						<a href="//www.linkedin.com/in/maria-rosado" target="_blank"
+						<a href="//https://www.linkedin.com/in/maria-rosado-bb1608132?trk=hp-identity-name" target="_blank"
 							class="btn btn-social-icon btn-linkedin">
 							<span class="fa fa-linkedin fa-2x"></span>
 						</a>
