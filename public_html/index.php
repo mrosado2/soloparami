@@ -49,32 +49,35 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<header>
 
 			<!-- begin header and navbar-->
-			<header>
-				<nav class="navbar navbar-default">
-					<div class="container">
-						<!-- Brand and toggle get grouped for better mobile display -->
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-							<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
-						</div>
+			<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
+				<div class="container-fluid">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span> class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand page-scroll">| Black Cat Develoment |</a>
+					</div>
 
-						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#about">About Me</a></li>
-								<li><a href="#moar">Moar Stuff</a></li>
-								<li><a href="https://github.com/mrosado/bootstrap-challenge-demo" target="_blank"><i class="fa fa-github"></i>&nbsp;&nbsp;GitHub</a></li>
-							</ul>
-						</div><!-- /.navbar-collapse -->
-					</div><!-- /.container-fluid -->
-				</nav>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-left">
+							<li><a class="page-scroll" href="#home">Home</a></li>
+							<li><a class="page-scroll" href="#about">About Me</a></li>
+							<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+							<li><a class="page-scroll" href="#contact">Contact Me</a> </li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+
 			</header>
 
 			<!-- begin welcome section -->
@@ -83,8 +86,8 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="jumbotron text-center">
-								<h1>Welcome to the Bootstrap Challenge Demo!</h1>
-								<p class="lead">View the source code or the GitHub project :D</p>
+								<h1>Maria Rosado Web Developer</h1>
+								<p class="lead"></p>
 							</div>
 						</div><!-- /.col-sm-12 -->
 					</div><!-- /.row -->
@@ -117,7 +120,7 @@
 
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
-								<img src="../public_html/img/web-dev-tools.png" alt="web-dev" class="img-responsive img-circle img-thumbnail">
+								<img src="../public_html/img/coming-soon-1.png" alt="web-dev" class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 1</h3>
 									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
