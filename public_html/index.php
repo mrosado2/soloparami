@@ -51,32 +51,32 @@
 		<div class="sfooter-content">
 			<header>
 
-			<!-- begin header and navbar-->
-			<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
-				<div class="container-fluid">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span> class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand page-scroll">| BlackCat Web Develoment |</a>
-					</div>
+				<!-- begin header and navbar-->
+				<nav class="nav-scroll navbar navbar-default navbar-fixed-top">
+					<div class="container-fluid">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span> class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand page-scroll">| BlackCat Web Develoment |</a>
+						</div>
 
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-						<ul class="nav navbar-nav navbar-left">
-							<li><a class="page-scroll" href="#home">Home</a></li>
-							<li><a class="page-scroll" href="#about">About Me</a></li>
-							<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
-							<li><a class="page-scroll" href="#contact">Contact Me</a> </li>
-						</ul>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-left">
+								<li><a class="page-scroll" href="#home">Home</a></li>
+								<li><a class="page-scroll" href="#about">About Me</a></li>
+								<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+								<li><a class="page-scroll" href="#contact">Contact Me</a> </li>
+							</ul>
+						</div>
 					</div>
-				</div>
-			</nav>
+				</nav>
 
 			</header>
 
@@ -104,6 +104,7 @@
 							<img src="../public_html/img/maria-profile.png" class="img-responsive img-thumbnail xs-center-block m-b-2">
 						</div>
 						<div class="col-sm-9">
+							<div class="About me"></div><h2>About Me</h2>
 							<p class="lead">I am the best. The dog smells bad rub face on owner. Go into a room to decide you didn't want to be in there anyway inspect anything brought into the house.</p>
 							<p>Throwup on your pillow sniff other cat's butt and hang jaw half open thereafter friends are not food damn that dog ignore the squirrels, you'll never catch them anyway then cats take over the world leave fur on owners clothes. Scratch at the door then walk away.</p>
 							<p>Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
@@ -121,36 +122,49 @@
 
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="web-dev" class="img-responsive img-circle img-thumbnail">
+								<img src="../public_html/img/coming-soon-1.png" alt="web-dev"
+									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Aaaa-capstone</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
+									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
+										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
+										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
+										leave cardboard box.</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
 
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon" class="img-responsive img-circle img-thumbnail">
+								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon" class="img-responsive
+								img-circle img-thumbnail">
 								<div>
 									<h3>Title 2</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
+									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
+										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
+										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
+										leave cardboard box.</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
 
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon" class="img-responsive img-circle img-thumbnail">
+								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 3</h3>
-									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
+									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse.
+										Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours -
+										checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to
+										leave cardboard box.</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
 						<div class="col-sm-3">
 							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soom" class="img-responsive img-circle img-thumbnail">
+								<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
+									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 4</h3>
 									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
@@ -167,15 +181,29 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-12 text-center">
-						<p>&copy; Copyright Text Here :P</p>
-						<div class="small">
-							<a href="#top"><i class="fa fa-arrow-up"></i> Back to Top</a>
+					<div class="col-md-12">
+						<!--TWITTER ICON-->
+						<a href="//twitter.com/BlackcatDevelop" target="_blank" class="btn btn-social-icon btn-twitter">
+							<span class="fa fa-twitter fa-2x"></span>
+						</a>
+						<!--GITHUB ICON-->
+						<a href="//github.com/mrosado2" target="_blank" class="btn btn-social-icon btn-github">
+							<span class="fa fa-github fa-2x"></span>
+						</a>
+						<!--LINKEDIN ICON-->
+						<a href="//www.linkedin.com/in/maria-rosado" target="_blank"
+							class="btn btn-social-icon btn-linkedin">
+							<span class="fa fa-linkedin fa-2x"></span>
+						</a>
+						<div class="col-sm-12 text-center">
+							<p>&copy; Copyright Text Here :P</p>
+							<div class="small">
+								<a href="#top"><i class="fa fa-arrow-up"></i> Back to Top</a>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
 		</footer>
-		</body>
+	</body>
 	</head>
 </html>
