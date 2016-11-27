@@ -115,20 +115,22 @@
 			</section>
 
 			<!-- begin 4 column section -->
+
 			<a name="moar"></a><!-- this is an "anchor" link -->
 			<section>
 				<div class="container">
+					<div class="text-Portfolio"
 					<div class="row">
 
 						<div class="col-sm-3">
-							<div class="text-center m-b-2">
+							<p class="text-center m-b-2">Portfolio</p>
 								<img src="../public_html/img/coming-soon-1.png" alt="web-dev"
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
-									<h3>Aaaa-capstone</h3>
-									<p class="text-justify">Project</p>
+									<h5>Aaaa-capstone</h5>
+									<p class="text-center m-b-2">Project</p>
 								</div>
-							</div>
+							</p>
 						</div><!-- /.col-sm-3 -->
 
 						<div class="col-sm-3">
@@ -137,7 +139,7 @@
 								img-circle img-thumbnail">
 								<div>
 									<h3>Title 2</h3>
-									<p class="text-justify">Project</p>
+									<p class="text-center m-b-2">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -148,7 +150,7 @@
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 3</h3>
-									<p class="text-justify">Project</p>
+									<p class="text-center m-b-2">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -158,7 +160,7 @@
 									  class="img-responsive img-circle img-thumbnail">
 								<div>
 									<h3>Title 4</h3>
-									<p class="text-justify">Project</p>
+									<p class="text-center m-b-2">Project</p>
 								</div>
 							</div>
 						</div><!-- /.col-sm-3 -->
@@ -167,7 +169,71 @@
 				</div><!-- /.container -->
 			</section>
 		</div><!-- /.sfooter-content -->
+		<!------------------------- CONTACT FORM------------------------------------->
+		<div id="contact" class="container section">
+			<h2 class="heading">Contact Me</h2>
+			<div class="row">
+				<div class="col-md-3"></div>
+				<!--Begin Contact Form-->
+				<div class="col-md-6">
+					<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
+						<div class="form-group">
+							<label for="name">Name <span class="text-danger">*</span></label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="email">Email <span class="text-danger">*</span></label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-envelope" aria-hidden="true"></i>
+								</div>
+								<input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="subject">Subject</label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-pencil" aria-hidden="true"></i>
+								</div>
+								<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="message">Message <span class="text-danger">*</span></label>
+							<div class="input-group">
+								<div class="input-group-addon">
+									<i class="fa fa-comment" aria-hidden="true"></i>
+								</div>
+								<textarea class="form-control" rows="5" id="message" name="message"
+											 placeholder="Message (2000 characters max)"></textarea>
+							</div>
+						</div>
 
+						<!-- reCAPTCHA -->
+						<div class="g-recaptcha" data-sitekey="6Led9SkTAAAAAKHa_JtzYJbmfs_lUQhrE0LufdKm"></div>
+
+						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+					</form>
+				</div>
+				<div class="col-md-3"></div>
+
+				<!--empty area for form error/success output-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div id="output-area"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</main>
+		</div>
 		<!-- begin footer -->
 		<footer>
 			<div class="container">
