@@ -63,7 +63,7 @@
 							<span class="icon-bar"></span>
 							<span> class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand page-scroll">| Black Cat Develoment |</a>
+						<a class="navbar-brand page-scroll">| BlackCat Web Develoment |</a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +86,8 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="jumbotron text-center">
-								<h1>Maria Rosado Web Developer</h1>
+								<h1>Maria Rosado</h1>
+								<h2> Web Developer</h2>
 								<p class="lead"></p>
 							</div>
 						</div><!-- /.col-sm-12 -->
@@ -122,7 +123,7 @@
 							<div class="text-center m-b-2">
 								<img src="../public_html/img/coming-soon-1.png" alt="web-dev" class="img-responsive img-circle img-thumbnail">
 								<div>
-									<h3>Title 1</h3>
+									<h3>Aaaa-capstone</h3>
 									<p class="text-justify">Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
 								</div>
 							</div>
@@ -169,7 +170,7 @@
 					<div class="col-sm-12 text-center">
 						<p>&copy; Copyright Text Here :P</p>
 						<div class="small">
-							<a href="#top"><i class="fa fa-arrow-up"></i>&nbsp;&nbsp;Back to Top</a>
+							<a href="#top"><i class="fa fa-arrow-up"></i> Back to Top</a>
 						</div>
 					</div>
 				</div>
