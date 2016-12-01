@@ -245,6 +245,7 @@
 					</form>
 				</div>
 				<div class="col-md-3"></div>
+				<div class="g-recaptcha" data-sitekey="6Lftlg0UAAAAAJ-Aw-uwhp4bAalULJxXidL34toN"></div>
 
 				<!--empty area for form error/success output-->
 				<div class="row">
