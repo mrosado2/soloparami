@@ -20,6 +20,10 @@
 		<!--[if lt IE 9]>
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
 		<![endif]-->
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
@@ -83,6 +87,7 @@
 			<!-- begin welcome section -->
 			<section>
 				<div class="container">
+					<img src="..public_html/img/class="background"
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="jumbotron text-center">
@@ -101,14 +106,31 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-3">
-							<img src="../public_html/img/maria-profile.png" class="img-responsive img-thumbnail xs-center-block m-b-2">
+							<img src="../public_html/img/maria-profile.png"
+								  class="img-responsive img-thumbnail xs-center-block m-b-2">
 						</div>
 						<div class="col-sm-9">
 							<div class="About me"></div><h2>About Me</h2>
-							<p class="lead">I am the best. The dog smells bad rub face on owner. Go into a room to decide you didn't want to be in there anyway inspect anything brought into the house.</p>
-							<p>Throwup on your pillow sniff other cat's butt and hang jaw half open thereafter friends are not food damn that dog ignore the squirrels, you'll never catch them anyway then cats take over the world leave fur on owners clothes. Scratch at the door then walk away.</p>
-							<p>Caticus cuteicus licks your face, kitten is playing with dead mouse. Behind the couch groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!. You call this cat food? refuse to leave cardboard box.</p>
-							<p>Sun bathe scratch the box make meme, make cute face for wake up wander around the house making large amounts of noise jump on top of your human's bed and fall asleep again this human feeds me.</p>
+							<p class="lead">Hi! My name is Maria Rosado. I am a Web Developer. Photography aficionado, with a love
+								for creating amazing Websites that look great and have seamless transitions from the eye catchers
+								to it effectiveness.
+							</p>
+							<p>Love to solve problems and help business to find was to use technology and get the most of it,
+								without loosing the human touch.</p>
+							<p>I am based in Albuquerque, New Mexico, and benefit of a multicultural background.
+								I was born in Mexico City where had an amazing job that send me to work in very importants events
+								like the first World Summit in Cancun and presidential campains.</p>
+							<p>Never missed the opportunity to visit museaums and historical locations from the Mayas in the south,
+								Aztecs ruins in central Mexico, to the Tarahumaras in the north.
+								Moved to New York where lived for 13 chilling winters and summers that were never enough to get to
+								visit all the stores and breath taking views on the Fall. There I worked with apparel companies
+								through an import, export, storage and transportation company where I help them to implement
+								technology they already had but were not using to full advantage.</p>
+							<p>Within the first month of my implementation of my suggested changes they save over $3,000.00 dollars.
+								That job also gave me the opportunity to work and learn from cultures from around the world.
+								Then moved to New Mexico to work at Intel. There I learned soo much about cutting edge technology
+								and manufacturing.
+								Now I am putting all that experience to the advantage of my customers.</p>
 						</div>
 					</div><!-- /.row -->
 				</div><!-- /.container -->
@@ -119,7 +141,6 @@
 			<a name="moar"></a><!-- this is an "anchor" link -->
 			<section>
 				<div class="container">
-					<div class="text-Portfolio"
 					<div class="row">
 
 						<div class="col-sm-3">
