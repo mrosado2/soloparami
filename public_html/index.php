@@ -238,15 +238,13 @@
 						</div>
 
 						<!-- reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="6Led9SkTAAAAAKHa_JtzYJbmfs_lUQhrE0LufdKm"></div>
+						<div class="g-recaptcha" data-sitekey="6Lftlg0UAAAAAJ-Aw-uwhp4bAalULJxXidL34toN"></div>
 
 						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
 				</div>
 				<div class="col-md-3"></div>
-				<div class="g-recaptcha" data-sitekey="6Lftlg0UAAAAAJ-Aw-uwhp4bAalULJxXidL34toN"></div>
-
 				<!--empty area for form error/success output-->
 				<div class="row">
 					<div class="col-xs-12">

@@ -31,7 +31,7 @@ $(document).ready(function(){
 				required: "Please enter your name."
 			},
 			email: {
-				email: "mrosado@cnm.edu.",
+				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
 			message: {
