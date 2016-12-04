@@ -47,7 +47,7 @@ section {
 footer {
 	padding: 2rem 0;
 	background-color: aqua;
-	color: #999;
+	color: transparent;
 }
 
 @media only screen and (max-width: 768px) {

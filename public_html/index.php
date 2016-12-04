@@ -50,6 +50,8 @@
 
 		<title>BlackCat Web development</title>
 		<title>My Personal Website</title>
+		body{
+		background-image: url('computer-image-plant.png');
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
@@ -141,55 +143,54 @@
 			<a name="moar"></a><!-- this is an "anchor" link -->
 			<section>
 				<div class="container">
+					<div class="jumbotron text-center">
+						<div class="text-center m-b-2"></div><h2>Portfolio</h2></div>
 					<div class="text-Portfolio"
 					<div class="row">
-
-						<div class="col-sm-3">
-							<p class="text-center m-b-2">Portfolio</p>
-								<img src="../public_html/img/coming-soon-1.png" alt="web-dev"
-									  class="img-responsive img-circle img-thumbnail">
-								<div>
-									<h5>Aaaa-capstone</h5>
-									<p class="text-center m-b-2">Project</p>
-								</div>
-							</p>
-						</div><!-- /.col-sm-3 -->
-
-						<div class="col-sm-3">
-							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon" class="img-responsive
-								img-circle img-thumbnail">
-								<div>
-									<h3>Title 2</h3>
-									<p class="text-center m-b-2">Project</p>
-								</div>
-							</div>
-						</div><!-- /.col-sm-3 -->
-
-						<div class="col-sm-3">
-							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
-									  class="img-responsive img-circle img-thumbnail">
-								<div>
-									<h3>Title 3</h3>
-									<p class="text-center m-b-2">Project</p>
-								</div>
-							</div>
-						</div><!-- /.col-sm-3 -->
-						<div class="col-sm-3">
-							<div class="text-center m-b-2">
-								<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
-									  class="img-responsive img-circle img-thumbnail">
-								<div>
-									<h3>Title 4</h3>
-									<p class="text-center m-b-2">Project</p>
-								</div>
-							</div>
-						</div><!-- /.col-sm-3 -->
-
-					</div><!-- /.row -->
-				</div><!-- /.container -->
 			</section>
+			<div class="col-sm-3">
+				<div class="text-center-m-b-2">
+					<img src="../public_html/img/icon-ddcb-lg.png" alt="ddcb" class="img-responsive img-circle img-thumbnail">
+					<h5>Aaaa-capstone</h5>
+					<p class="text-center m-b-2">Project</p>
+				</div>
+			</div><!-- /.col-sm-3 -->
+
+			<div class="col-sm-3">
+				<div class="text-center m-b-2">
+					<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+						  class="img-responsive img-circle img-thumbnail">
+					<div>
+						<h3>Title 2</h3>
+						<p class="text-center m-b-2">Project</p>
+					</div>
+				</div>
+			</div><!-- /.col-sm-3 -->
+
+			<div class="col-sm-3">
+				<div class="text-center m-b-2">
+					<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
+						  class="img-responsive img-circle img-thumbnail">
+					<div>
+						<h3>Title 3</h3>
+						<p class="text-center m-b-2">Project</p>
+					</div>
+				</div>
+			</div><!-- /.col-sm-3 -->
+			<div class="col-sm-3">
+				<div class="text-center m-b-2">
+					<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
+						  class="img-responsive img-circle img-thumbnail">
+					<div>
+						<h3>Title 4</h3>
+						<p class="text-center m-b-2">Project</p>
+					</div>
+				</div>
+			</div><!-- /.col-sm-3 -->
+
+		</div><!-- /.row -->
+		</div><!-- /.container -->
+		</section>
 		</div><!-- /.sfooter-content -->
 		<!------------------------- CONTACT FORM------------------------------------->
 		<div id="contact" class="container section">
