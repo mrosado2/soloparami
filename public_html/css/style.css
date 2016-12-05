@@ -12,6 +12,11 @@
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
+.welcome {
+	background: url("../img/computer-image-plant.png")no-repeat center center fixed;
+	background-size: cover;
+}
+
 /*corrects IE min-height bug*/
 html { display: flex;}
 body { width: 100%;}
