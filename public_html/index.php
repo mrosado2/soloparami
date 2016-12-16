@@ -161,7 +161,7 @@
 					<img src="../public_html/img/coming-soon-1.png" alt="coming-soon"
 						  class="img-responsive img-circle img-thumbnail">
 					<div>
-						<h3>Title 2</h3>
+						<h3>Star Dairy</h3>
 						<p class="text-center m-b-2">Project</p>
 					</div>
 				</div>
@@ -182,7 +182,7 @@
 					<img src="../public_html/img/coming-soon-1.png" alt="coming-soom"
 						  class="img-responsive img-circle img-thumbnail">
 					<div>
-						<h3>Title 4</h3>
+						<h3>Vicente's Shop</h3>
 						<p class="text-center m-b-2">Project</p>
 					</div>
 				</div>
